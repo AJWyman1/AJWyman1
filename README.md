@@ -1,5 +1,13 @@
-### Hi there 👋
+### Welcome friends! 👋
 
+My name is Alex Wyman and I am currently a Software Engineering student at Northern Vermont University. I am scheduled to graduate in May 2024
+
+Before starting school, I served 6 years in the US Navy as a flight deck electrician on board the USS Harry S Truman.
+
+- 👀 I'm currently looking for an internship, preferably remote, anywhere within the software development field.
+- 🦀 I recently fell in love with Rust and I am open to any position working with it in any capacity.
+  - simple [Multi-Threaded Neural Net](https://github.com/AJWyman1/rust_net) for my final project last semester in Rust.
+- 
 <!--
 **AJWyman1/AJWyman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
